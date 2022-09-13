@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("git-bash");
 		System.out.println("git commit again");
 		System.out.println("non-fast forward");
+		System.out.println("2");
 	}
 }
