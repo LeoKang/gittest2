@@ -6,5 +6,6 @@ public class Main {
 		System.out.println("git commit again");
 		System.out.println("non-fast forward");
 		System.out.println("2");
+		System.out.println("Branch - func1");
 	}
 }
