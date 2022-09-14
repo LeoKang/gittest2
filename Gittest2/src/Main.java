@@ -7,5 +7,6 @@ public class Main {
 		System.out.println("non-fast forward");
 		System.out.println("2");
 		System.out.println("Branch - func1");
+		System.out.println("add");
 	}
 }
